@@ -1,5 +1,5 @@
-# piedra-papel-tijera-js
-Juego clásico de Piedra, Papel o Tijera con un toque friki desarrollado con JavaScript vanila, HTML5 y CSS3. 
+# pptls-js
+Juego clásico de Piedra, Papel o Tijera con un toque friki inspirado en la serie Big Bang Theory desarrollado con JavaScript vanila, HTML5 y CSS3. 
 Aplicación web interactiva que permite jugar contra la máquina en tiempo real
 
 # Piedra, Papel, Tijera, Lagarto o Spock
