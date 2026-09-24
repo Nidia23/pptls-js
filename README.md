@@ -1,7 +1,8 @@
 # piedra-papel-tijera-js
-Juego clásico de Piedra, Papel o Tijera desarrollado con JavaScript vanila, HTML5 y CSS3. Aplicación web interactiva que permite jugar contra la máquina en tiempo real
-# ✂️ Piedra, Papel o Tijera (Rock, Paper, Scissors)
+Juego clásico de Piedra, Papel o Tijera con un toque friki desarrollado con JavaScript vanila, HTML5 y CSS3. 
+Aplicación web interactiva que permite jugar contra la máquina en tiempo real
 
+# Piedra, Papel, Tijera, Lagarto o Spock
 Una implementación web interactiva y responsiva del clásico juego de **Piedra, Papel o Tijera**, desarrollada utilizando JavaScript puro (Vanilla JS). 
 El usuario juega en tiempo real contra la computadora, la cual genera sus elecciones de forma aleatoria.
 
