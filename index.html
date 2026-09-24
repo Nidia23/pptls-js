@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piedra, Papel, Tijera, Lagarto o Spock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Piedra,Papel o Tijera</h1>
+
+    <div class="choices">
+        <button onclick="playGame('Piedra')" id="btnPiedra">Piedra</button>
+        <button onclick="playGame('Papel')" id="btnPapel">Papel</button>
+        <button onclick="playGame('Tijera')" id="btnTijera">Tijera</button>
+        <button onclick="playGame('Lagarto')" id="btnLagarto">Lagarto</button>
+        <button onclick="playGame('Spock')" id="btnSpock">Spok</button>
+    </div>
+
+    <div id="result"></div>
+
+    <div id="score">Jugador: 0 | Computadora: 0</div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
